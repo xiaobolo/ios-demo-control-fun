@@ -14,6 +14,7 @@
 		AF07A5C81FFF680E00072471 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AF07A5C61FFF680E00072471 /* LaunchScreen.storyboard */; };
 		AF07A5D31FFF680E00072471 /* Control_FunTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF07A5D21FFF680E00072471 /* Control_FunTests.swift */; };
 		AF07A5DE1FFF680E00072471 /* Control_FunUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF07A5DD1FFF680E00072471 /* Control_FunUITests.swift */; };
+		AF07A5EF1FFF6DD600072471 /* images in Resources */ = {isa = PBXBuildFile; fileRef = AF07A5EE1FFF6DD500072471 /* images */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		AF07A5D91FFF680E00072471 /* Control FunUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Control FunUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AF07A5DD1FFF680E00072471 /* Control_FunUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Control_FunUITests.swift; sourceTree = "<group>"; };
 		AF07A5DF1FFF680E00072471 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AF07A5EE1FFF6DD500072471 /* images */ = {isa = PBXFileReference; lastKnownFileType = folder; path = images; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				AF07A5BF1FFF680E00072471 /* ViewController.swift */,
 				AF07A5C11FFF680E00072471 /* Main.storyboard */,
 				AF07A5C41FFF680E00072471 /* Assets.xcassets */,
+				AF07A5EE1FFF6DD500072471 /* images */,
 				AF07A5C61FFF680E00072471 /* LaunchScreen.storyboard */,
 				AF07A5C91FFF680E00072471 /* Info.plist */,
 			);
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AF07A5EF1FFF6DD600072471 /* images in Resources */,
 				AF07A5C81FFF680E00072471 /* LaunchScreen.storyboard in Resources */,
 				AF07A5C51FFF680E00072471 /* Assets.xcassets in Resources */,
 				AF07A5C31FFF680E00072471 /* Main.storyboard in Resources */,
